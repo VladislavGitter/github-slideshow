@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Mi texto: No eres yo, soy tu.
 Use the left arrow to go back!
